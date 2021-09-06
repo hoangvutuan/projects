@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{3ABA0756-B1AA-4A63-9557-6BD145D1C835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMerge2", "TestMerge2\TestMerge2.csproj", "{2A87642F-43DE-4BD2-9FE7-811318FBC478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABA0756-B1AA-4A63-9557-6BD145D1C835}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3ABA0756-B1AA-4A63-9557-6BD145D1C835}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3ABA0756-B1AA-4A63-9557-6BD145D1C835}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3ABA0756-B1AA-4A63-9557-6BD145D1C835}.Release|anycpu.Build.0 = Release|anycpu
+		{2A87642F-43DE-4BD2-9FE7-811318FBC478}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{2A87642F-43DE-4BD2-9FE7-811318FBC478}.Debug|anycpu.Build.0 = Debug|anycpu
+		{2A87642F-43DE-4BD2-9FE7-811318FBC478}.Release|anycpu.ActiveCfg = Release|anycpu
+		{2A87642F-43DE-4BD2-9FE7-811318FBC478}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
