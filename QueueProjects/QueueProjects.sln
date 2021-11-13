@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueProjects", "QueueProjects\QueueProjects.csproj", "{724469E5-A8B1-45DB-8764-44209A98C7B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingAverage", "MovingAverage\MovingAverage.csproj", "{19B3BEFA-1B6B-47B9-B85B-A21A9C92E01C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724469E5-A8B1-45DB-8764-44209A98C7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724469E5-A8B1-45DB-8764-44209A98C7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724469E5-A8B1-45DB-8764-44209A98C7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724469E5-A8B1-45DB-8764-44209A98C7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B3BEFA-1B6B-47B9-B85B-A21A9C92E01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B3BEFA-1B6B-47B9-B85B-A21A9C92E01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B3BEFA-1B6B-47B9-B85B-A21A9C92E01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B3BEFA-1B6B-47B9-B85B-A21A9C92E01C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
